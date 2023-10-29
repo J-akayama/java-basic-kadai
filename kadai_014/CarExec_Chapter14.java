@@ -1,6 +1,4 @@
-package CarExec_Chapter14;
-
-import kadai_014.Car_Chapter14;
+package kadai_014;
 
 public class CarExec_Chapter14 {
 	 public static void main(String[] args) {
